@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(61, 59, 59);
+  text-align: center;
+}
+
+h1,h2 {
+  
+  color: rgb(8, 245, 233);
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+h2{
+  color: white;
+}
+
+.movie-quiz,.submit-button,.restart{
+  border: none;
+  margin: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 40px;
+  cursor: pointer;
+  background-color: rgb(253, 147, 8);
+  color: black;
+  box-sizing: border-box;
+  
+}
+
+.questions {
+  box-sizing: border-box;
+  font-size: 30px;
+  color: yellow;
+}
+
+.options{
+  padding: 2px 50px;
+  font-size: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+ 
+}
+
+.js-score{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+h4{
+  color: red;
+}
+
+h3{
+  color: green;
+}
